@@ -1,5 +1,5 @@
 {
-  "name": "iw-loading-spinner",
+  "name": "@itwonders-code/iw-loading-spinner",
   "version": "1.0.0",
   "description": "based on vue-simple-spinner",
   "main": "index.js",
