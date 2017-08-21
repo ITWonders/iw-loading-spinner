@@ -1,0 +1,23 @@
+{
+  "name": "iw-loading-spinner",
+  "version": "1.0.0",
+  "description": "based on vue-simple-spinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITWonders/iw-spinner.git"
+  },
+  "keywords": [
+    "loading",
+    "spinner"
+  ],
+  "author": "Ken Ng <kenng@itwonders-design.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITWonders/iw-spinner/issues"
+  },
+  "homepage": "https://github.com/ITWonders/iw-spinner#readme"
+}
